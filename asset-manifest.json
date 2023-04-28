@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/shelf-picker/static/js/main.393e0cfe.js",
+    "static/media/products.jpg": "/shelf-picker/static/media/products.161806197b1bf8ecd3eb.jpg",
+    "index.html": "/shelf-picker/index.html",
+    "main.393e0cfe.js.map": "/shelf-picker/static/js/main.393e0cfe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.393e0cfe.js"
+  ]
+}
